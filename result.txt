@@ -1,0 +1,6 @@
+Total words in IF.txt: 287
+Total words in AlwaysRememberUsThisWay.txt: 223
+Grand total of words: 510
+Top 3 words in IF.txt: [('you', 14), ('If', 13), ('can', 12)]
+Top 3 words in AlwaysRememberUsThisWay.txt: [('the', 12), ('I', 8), ('And', 7)]
+IP address of container: 172.17.0.2

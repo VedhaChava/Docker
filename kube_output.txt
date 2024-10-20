@@ -1,0 +1,7 @@
+NAME                                       READY   STATUS             RESTARTS        AGE
+my-python-app-7574fc6d8d-2fwdm             0/1     ImagePullBackOff   0               22m
+my-python-app-866dbd44df-qlrgl             0/1     ImagePullBackOff   0               31m
+my-python-app-866dbd44df-qm79t             0/1     ImagePullBackOff   0               31m
+my-python-app-deployment-5df88995d-76r7f   1/1     Running            8 (8m11s ago)   19m
+my-python-app-deployment-5df88995d-gmdfc   1/1     Running            8 (8m9s ago)    19m
+my-python-app-deployment-5df88995d-rv869   1/1     Running            0               6s
